@@ -1,23 +1,23 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "0eee987dd57b36a5bcd8ae2f3e571ab5",
+    "revision": "b4a792f679745c9bdaa39d1d5ae353b6",
     "url": "/weather-know/index.html"
   },
   {
-    "revision": "0cfa101830aae296490c",
-    "url": "/weather-know/static/css/main.e56f1663.chunk.css"
+    "revision": "f7fdfba8fc2abb1ddffe",
+    "url": "/weather-know/static/css/main.4fea65f5.chunk.css"
   },
   {
-    "revision": "2e617e810433357db269",
-    "url": "/weather-know/static/js/2.fd981eb9.chunk.js"
+    "revision": "9127d3e64c75233f33f0",
+    "url": "/weather-know/static/js/2.b3ea5d73.chunk.js"
   },
   {
     "revision": "5356fa2f66e46e6c05e4cbe319ac7f1d",
-    "url": "/weather-know/static/js/2.fd981eb9.chunk.js.LICENSE.txt"
+    "url": "/weather-know/static/js/2.b3ea5d73.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0cfa101830aae296490c",
-    "url": "/weather-know/static/js/main.f9d924ac.chunk.js"
+    "revision": "f7fdfba8fc2abb1ddffe",
+    "url": "/weather-know/static/js/main.0bb8ec41.chunk.js"
   },
   {
     "revision": "b06b76352f8ade0136bc",
